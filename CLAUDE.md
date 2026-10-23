@@ -1,7 +1,7 @@
 # wp-woo-product-options — Agent Operating Guide
 
 AGPL-3.0-or-later WordPress plugin (requires WooCommerce): product options and add-ons that aren't variants, priced in the cart and kept on order lines.
-README.md is the contract. PHP rules: `/home/jameson/Source/ai-prompts/php.md`.
+README.md is the contract. PHP rules: SOP *Stack Standards → PHP*.
 
 ## Layout
 
